@@ -1,4 +1,4 @@
-# Day 4: Brute Force Defender 🔐
+# Day 4: Brute Force Defender 
 
 **Part of my journey learning Python for cybersecurity (penetration testing & AI security)**
 
